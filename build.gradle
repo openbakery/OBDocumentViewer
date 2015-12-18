@@ -1,0 +1,13 @@
+plugins {
+  id "org.openbakery.xcode-plugin" version "0.12.5"
+}
+
+
+xcodebuild {
+	scheme = 'OBDocumentViewer'
+  target = 'OBDocumentViewer'
+	
+	destination = [ 'iPhone 6' ]
+}
+
+
