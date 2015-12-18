@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		355B2CE1F059F20E996F0145 /* QuickLook.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 355B214B89F5B89C31D829BF /* QuickLook.framework */; };
-		A79334701C23EB7F00E32753 /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A793346F1C23EB7F00E32753 /* Media.xcassets */; };
+		A7C876241C23EF1B00B8C54D /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A7C876231C23EF1B00B8C54D /* Media.xcassets */; };
 		A7F6C04A1C22BA3A00E3A48D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A7F6C0491C22BA3A00E3A48D /* main.m */; };
 		A7F6C04D1C22BA3A00E3A48D /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A7F6C04C1C22BA3A00E3A48D /* AppDelegate.m */; };
 		A7F6C0501C22BA3A00E3A48D /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A7F6C04F1C22BA3A00E3A48D /* ViewController.m */; };
@@ -29,7 +29,7 @@
 
 /* Begin PBXFileReference section */
 		355B214B89F5B89C31D829BF /* QuickLook.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuickLook.framework; path = System/Library/Frameworks/QuickLook.framework; sourceTree = SDKROOT; };
-		A793346F1C23EB7F00E32753 /* Media.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Media.xcassets; path = ../../../../tmp/Media.xcassets; sourceTree = "<group>"; };
+		A7C876231C23EF1B00B8C54D /* Media.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Media.xcassets; sourceTree = "<group>"; };
 		A7F6C0451C22BA3A00E3A48D /* OBDocumentViewer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OBDocumentViewer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A7F6C0491C22BA3A00E3A48D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		A7F6C04B1C22BA3A00E3A48D /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -94,7 +94,7 @@
 		A7F6C0471C22BA3A00E3A48D /* OBDocumentViewer */ = {
 			isa = PBXGroup;
 			children = (
-				A793346F1C23EB7F00E32753 /* Media.xcassets */,
+				A7C876231C23EF1B00B8C54D /* Media.xcassets */,
 				A7F6C06D1C22BD1100E3A48D /* OBDocumentViewer.entitlements */,
 				A7F6C04B1C22BA3A00E3A48D /* AppDelegate.h */,
 				A7F6C04C1C22BA3A00E3A48D /* AppDelegate.m */,
@@ -212,7 +212,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A7F6C0581C22BA3A00E3A48D /* LaunchScreen.storyboard in Resources */,
-				A79334701C23EB7F00E32753 /* Media.xcassets in Resources */,
+				A7C876241C23EF1B00B8C54D /* Media.xcassets in Resources */,
 				A7F6C0531C22BA3A00E3A48D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
